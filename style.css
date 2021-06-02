@@ -162,7 +162,6 @@ svg {
     top: 20px;
     left: 10px;
     width: 120px;
-    opacity: 1;
 }
 
 .sticker::after {
@@ -173,5 +172,5 @@ svg {
     right: 0;
     bottom: 0;
     border-radius: 50%;
-    background: linear-gradient(to right,transparent,rgba(0,0,0,0.2));
+    background: linear-gradient(to right,rgba(249, 249, 249,0.2),rgba(0,0,0,0.2));
 }
